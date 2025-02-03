@@ -18,14 +18,6 @@ function Home() {
               Saiba mais sobre mim
             </Link>
           </div>
-
-          <figure>
-            <img
-              className="img-home"
-              src="/developer-red.svg"
-              alt="Imagem de Home"
-            />
-          </figure>
         </section>
       </Container>
     </>
